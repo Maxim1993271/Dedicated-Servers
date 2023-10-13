@@ -1,0 +1,1 @@
+start srcds.exe -console -game cstrike -secure +map de_dust2 +maxplayers 64 -autoupdate
