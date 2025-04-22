@@ -13,3 +13,6 @@ exec autoexec.cfg
 //
 stuffcmds
 
+// display the startup level
+startupmenu
+
