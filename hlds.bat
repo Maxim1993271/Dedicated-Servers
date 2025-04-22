@@ -1,0 +1,1 @@
+Start hlds.exe -console -game cstrike +map de_dust2 +maxplayers 26 +sv_lan 0
